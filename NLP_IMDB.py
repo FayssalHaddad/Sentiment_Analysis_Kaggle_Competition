@@ -14,7 +14,7 @@ import nltk
 from nltk.corpus import stopwords
 
 # Import the data from IMDB Dataset
-df = pd.read_csv('C://Users/Fayssal/Desktop/Neoma MSc TOUS LES COURS/Kaggle & Practice/Movies/IMDB Dataset.csv')
+df = pd.read_csv('IMDB Dataset.csv')
 
 # Visualize the data
 df.describe()
