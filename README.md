@@ -27,7 +27,7 @@ This project focuses on sentiment analysis of the IMDB Reviews dataset for a Kag
    - Building and training a Sequential model with Dense layers.
    - Model evaluation based on accuracy.
 
-## Libraries Used
+## Libraries Required
 - Pandas
 - NumPy
 - NLTK
